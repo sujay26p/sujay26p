@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sujay
 - 👀 I’m interested in Full stack development.
-Currently learning and working on Spring Framework.
+Currently learning and working on Spring Boot, ReactJS.
 
 <!---
 sujay26p/sujay26p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
